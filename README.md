@@ -16,10 +16,12 @@ Here are some of the languages and tools I work with:
     - XGBM, LightGBM, Stochastic Gradient Boosting.
   - Pipeline
 - Deep Neural Networks
-  - Tensorflow (Functional API & Sequential API)
-  - Keras
-    - Recurrent Neural Networks (GRU, LSTM, Bidirectional LSTM)
-    - Convolutional Neural Networks
+  - Tensorflow & Keras (Functional API & Sequential API)
+    - Model Building
+      - Recurrent Neural Networks (GRU, LSTM, Bidirectional LSTM)
+        - Dropout, Layer Normalization, Residual Connections   
+      - Convolutional Neural Networks
+        - Dropout, Batch Normalization, Residual Connections 
 - SpaCy
 - Optuna Optimization
 - SHAP
