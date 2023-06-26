@@ -41,12 +41,19 @@
             <ul>
               <li>Recurrent Neural Networks (GRU, LSTM, Bidirectional LSTM)
                 <ul>
-                  <li>Dropout, Layer Normalization, Residual Connections</li>
+                  <li>Optimization Layers 
+                    <ul>
+                      <li> Dropout, Layer Normalization, Residual Connections </li>
+                    </ul>
+                  </li>
                 </ul>
               </li>
               <li>Convolutional Neural Networks
                 <ul>
-                  <li>Dropout, Batch Normalization, Residual Connections</li>
+                  <li>Optimization Layers 
+                    <ul>
+                      <li> Dropout, Batch Normalization, Residual Connections </li>
+                    </ul>                  
                 </ul>
               </li>
             </ul>
