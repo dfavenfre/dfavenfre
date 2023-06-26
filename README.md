@@ -25,7 +25,7 @@
       <li> Feature Selection </li>
         <ul> 
             <li> Principal Component Analysis </li>
-            <li> Recursie Feature Elimination </li>
+            <li> Recursive Feature Elimination </li>
         </ul> 
       <li> Data Preprocessing </li>
         <ul> 
