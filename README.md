@@ -1,5 +1,12 @@
 ### Hi there 🤖
 
+<h7 align="left">
+  <code><a href="www.linkedin.com/in/tolga-şakar-575b86136"><img width="85" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a></code>
+  <code><a href="https://www.kaggle.com/dfavenfre/code"><img width="85" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black"></a></code>
+  <code><a href="https://medium.com/@bauglir"><img width="85" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>
+  <code><a href="https://huggingface.co/dfavenfre"><img width="30" src="https://huggingface.co/front/assets/huggingface_logo.svg"></a></code>
+</h7>
+
 I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.   
 
 ## Languages and Tools
@@ -34,16 +41,6 @@ Here are a few notable projects I have worked on:
 - [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various models to forecast hourly electricity prices provided by the EXIST Market Transparency Platform.
 - [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Econ-Dashboard is a centralized financial dashboard for financial/economic data screening, sentiment classification and time-series forecasting
 - [Financial Sentiment Classifier](https://github.com/dfavenfre/financial-sentiment-classifier): Model_USE is a pre-trained NLP model to analyze the sentiment of financial or economic commentary, tweet, or news. It is built upon Universal Sentence Encoder (USE) and fine-tuned for financial sentiment classification purposes. Financial Phrasebank's 'agreeall' dataset was used for fine-tuning.
-
-## Connect with Me
-You can find me on different platforms:
-
-- [Kaggle](https://www.kaggle.com/dfavenfre/code)
-- [LinkedIn](www.linkedin.com/in/tolga-şakar-575b86136)
-- [Medium](https://medium.com/@bauglir)
-- [HuggingFace repository](https://huggingface.co/dfavenfre/model_use)
-
-Feel free to reach out to me on any of these platforms. I'm always excited to connect with fellow developers, researchers, and enthusiasts.
 
 ## Medium Blogs
 I occasionally write blog posts on various topics at [Medium](https://medium.com/@bauglir). Here are some of my recent articles:
