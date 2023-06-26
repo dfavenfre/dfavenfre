@@ -1,15 +1,13 @@
 ### Hi there 🤖
 
+<div style="display: flex; align-items: center;">
+  <a href="https://www.linkedin.com/in/tolga-şakar-575b86136"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/dfavenfre"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle"></a>
+  <a href="https://medium.com/@bauglir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+  <a href="https://huggingface.co/dfavenfre"><img height="35" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face"></a>
+</div>
 
-I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.    
-
-<ul align="left">
-  <li><a href="https://www.linkedin.com/in/tolga-şakar-575b86136"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a></li>
-  <li><a href="https://www.kaggle.com/dfavenfre"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle"></a></li>
-  <li><a href="https://medium.com/@bauglir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a></li>
-  <li><a href="https://huggingface.co/dfavenfre"><img height="35" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face"></a></li>
-</ul>
-
+<p>I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.</p>
 
 <h2>Languages and Tools</h2>
 
