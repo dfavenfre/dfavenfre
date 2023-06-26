@@ -1,37 +1,66 @@
 ### Hi there 🤖
 
-<h7 align="left">
-  <code><a href="www.linkedin.com/in/tolga-şakar-575b86136"><img width="85" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a></code>
-  <code><a href="https://www.kaggle.com/dfavenfre/code"><img width="85" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black"></a></code>
-  <code><a href="https://medium.com/@bauglir"><img width="85" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a></code>
-  <code><a href="https://huggingface.co/dfavenfre"><img width="30" src="https://huggingface.co/front/assets/huggingface_logo.svg"></a></code>
-</h7>
 
-I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.   
+I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.    
 
-## Languages and Tools
+<ul align="left">
+  <li><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></li>
+  <li><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black"></li>
+  <li><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></li>
+  <li><img height=35 src="https://huggingface.co/front/assets/huggingface_logo.svg"></li>
+</ul>
 
-Here are some of the languages and tools I work with:
 
-- Python
-- Streamlit
-- NoSQL
-- Scikit-learn
-  - Preprocessing
-  - Imputation Methods
-  - Modelling
-    - XGBM, LightGBM, Stochastic Gradient Boosting.
-  - Pipeline
-- Deep Neural Networks
-  - Tensorflow & Keras (Functional API & Sequential API)
-    - Model Building
-      - Recurrent Neural Networks (GRU, LSTM, Bidirectional LSTM)
-        - Dropout, Layer Normalization, Residual Connections   
-      - Convolutional Neural Networks
-        - Dropout, Batch Normalization, Residual Connections 
-- SpaCy
-- Optuna Optimization
-- SHAP
+<h2>Languages and Tools</h2>
+
+<ul>
+  <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
+  <li><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></li>
+  <li><img src="https://img.shields.io/badge/DetaSpace-FF3E00?style=for-the-badge&logo=deta&logoColor=white" alt="DetaSpace"></li>
+  <li><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"></li>
+    <ul> 
+      <li> Model Building </li>
+        <ul> 
+            <li> Tree-Based Ensemble Models (XGBM, LightGBM, Stochastic Gradient Boosting, Multi-Perceptron Layers) </li>
+            <li> Unsupervised Learning</li>
+        </ul>
+      <li> Feature Selection </li>
+        <ul> 
+            <li> Principal Component Analysis </li>
+            <li> Recursie Feature Elimination </li>
+        </ul> 
+      <li> Data Preprocessing </li>
+        <ul> 
+          <li> KNNImputer, SimpleImputer, Median Interpolation </li>
+          <li> One-Hot Encoding, Label-Encoding </li>
+          <li> Synthetic Minority Over-sampling Technique </li>
+        </ul>
+    </ul>
+  <li><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></li>
+  <li><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></li>
+        <ul>
+          <li>Model Building
+            <ul>
+              <li>Recurrent Neural Networks (GRU, LSTM, Bidirectional LSTM)
+                <ul>
+                  <li>Dropout, Layer Normalization, Residual Connections</li>
+                </ul>
+              </li>
+              <li>Convolutional Neural Networks
+                <ul>
+                  <li>Dropout, Batch Normalization, Residual Connections</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </ul>
+    </ul>
+  </li>
+  <li><img src="https://img.shields.io/badge/SpaCy-03A9F4?style=for-the-badge&logo=spaCy&logoColor=white" alt="SpaCy"></li>
+  <li><img src="https://img.shields.io/badge/Optuna-FF0000?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna Optimization"></li>
+  <li><img src="https://img.shields.io/badge/SHAP-3887FF?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP"></li>
+</ul>
 
 ## My Projects
 
