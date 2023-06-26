@@ -19,7 +19,7 @@
     <ul> 
       <li> Model Building </li>
         <ul> 
-            <li> Tree-Based Ensemble Models (XGBM, LightGBM, Stochastic Gradient Boosting, Multi-Perceptron Layers) </li>
+            <li> Tree-Based Ensemble Models (XGBM, LightGBM, Stochastic Gradient Boosting, Multi-Layer Perceptrons) </li>
             <li> Unsupervised Learning</li>
         </ul>
       <li> Feature Selection </li>
