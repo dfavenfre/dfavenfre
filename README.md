@@ -20,7 +20,7 @@
       <li> Model Building </li>
         <ul> 
             <li> Tree-Based Ensemble Models (XGBM, LightGBM, Stochastic Gradient Boosting, Multi-Layer Perceptrons) </li>
-            <li> Unsupervised Learning</li>
+            <li> Clustering, K-Means, KNN, PCA</li>
         </ul>
       <li> Feature Selection </li>
         <ul> 
