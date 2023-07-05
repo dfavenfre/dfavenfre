@@ -16,52 +16,8 @@
   <li><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></li>
   <li><img src="https://img.shields.io/badge/DetaSpace-FF3E00?style=for-the-badge&logo=deta&logoColor=white" alt="DetaSpace"></li>
   <li><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"></li>
-    <ul> 
-      <li> Model Building </li>
-        <ul> 
-            <li> Tree-Based Ensemble Models (XGBM, LightGBM, Stochastic Gradient Boosting, Multi-Layer Perceptrons) </li>
-            <li> Clustering, K-Means, KNN, PCA</li>
-        </ul>
-      <li> Feature Selection </li>
-        <ul> 
-            <li> Principal Component Analysis </li>
-            <li> Recursive Feature Elimination </li>
-        </ul> 
-      <li> Data Preprocessing </li>
-        <ul> 
-          <li> KNNImputer, SimpleImputer, Median Interpolation </li>
-          <li> One-Hot Encoding, Label-Encoding </li>
-          <li> Synthetic Minority Over-sampling Technique </li>
-        </ul>
-    </ul>
   <li><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></li>
   <li><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></li>
-        <ul>
-          <li>Model Building
-            <ul>
-              <li>Recurrent Neural Networks (GRU, LSTM, Bidirectional LSTM)
-                <ul>
-                  <li>Optimization Layers 
-                    <ul>
-                      <li> Dropout, Layer Normalization, Residual Connections </li>
-                    </ul>
-                  </li>
-                </ul>
-              </li>
-              <li>Convolutional Neural Networks
-                <ul>
-                  <li>Optimization Layers 
-                    <ul>
-                      <li> Dropout, Batch Normalization, Residual Connections </li>
-                    </ul>                  
-                </ul>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </ul>
-    </ul>
-  </li>
   <li><img src="https://img.shields.io/badge/SpaCy-03A9F4?style=for-the-badge&logo=spaCy&logoColor=white" alt="SpaCy"></li>
   <li><img src="https://img.shields.io/badge/Optuna-FF0000?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna Optimization"></li>
   <li><img src="https://img.shields.io/badge/SHAP-3887FF?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP"></li>
