@@ -8,6 +8,7 @@
 </div>
 
 <p>I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.</p>
+<img src="https://myreadme.vercel.app/api/embed/dfavenfre?panels=userstatistics,toplanguages,commitgraph,toprepositories" alt="reimaginedreadme" />
 
 <h2>Languages and Tools</h2>
 
@@ -23,15 +24,26 @@
   <li><img src="https://img.shields.io/badge/SHAP-3887FF?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP"></li>
 </ul>
 
-## My Projects
+
+
+## Repository
 
 Here are a few notable projects I have worked on:
 
-- [Bank Customer Deposit Prediction](https://github.com/dfavenfre/customer_deposit_classifier): Streamlit app developed for bank customer deposit prediction, using a fine-tuned XGBClassifier model. ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Fcustomer_deposit_classifier&countColor=%23697689&style=flat-square&labelStyle=upper)
-- [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various models to forecast hourly electricity prices provided by the EXIST Market Transparency Platform. ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Felectricity-price-forecasting&countColor=%23697689&style=flat-square&labelStyle=upper)
-- [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Econ-Dashboard is a centralized financial dashboard for financial/economic data screening, sentiment classification and time-series forecasting ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2FEcon-Dashboard&countColor=%23697689&style=flat-square&labelStyle=upper)
-- [Financial Sentiment Classifier](https://github.com/dfavenfre/financial-sentiment-classifier): Model_USE is a pre-trained NLP model to analyze the sentiment of financial or economic commentary, tweet, or news. It is built upon Universal Sentence Encoder (USE) and fine-tuned for financial sentiment classification purposes. Financial Phrasebank's 'agreeall' dataset was used for fine-tuning. ![Total Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Ffinancial-sentiment-classifier&countColor=%23697689&style=flat-square&labelStyle=upper)
- 
+- [Bank Customer Deposit Prediction](https://github.com/dfavenfre/customer_deposit_classifier): Deployed a Streamlit app to predict bank customer deposit subscription behavior by developing and finetuning an XGBClassifier model.
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Fcustomer_deposit_classifier&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Fcustomer_deposit_classifier).
+
+- [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various predictive models, including a hand-crafted neural network (LSTM) model for linear prediction tasks and an XGB regression model.
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Felectricity-price-forecasting&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Felectricity-price-forecasting) 
+
+- [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Created a centralized financial dashboard for screening financial/economic data, sentiment classification, and time-series forecasting. This all-in-one dashboard is equipped with hand-crafted neural network
+models, including a sentiment classifier with pre-trained embeddings, and LSTM forecast models for different market capitalizations.
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2FEcon-Dashboard&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2FEcon-Dashboard)
+
+- [Financial Sentiment Classifier](https://github.com/dfavenfre/financial-sentiment-classifier): Developed an NLP model to analyze the sentiment of financial or economic commentary, tweet, or news. It is built upon Universal Sentence Encoder (USE) embedding layer and is fine-tuned for financial sentiment classification purposes. Financial Phrasebank's 'agreeall' dataset was used for fine-tuning.
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Ffinancial-sentiment-classifier&countColor=%23697689&style=plastic&labelStyle=lower)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdfavenfre%2Ffinancial-sentiment-classifier)
+
+
 ## Medium Blogs
 I occasionally write blog posts on various topics at [Medium](https://medium.com/@bauglir). Here are some of my recent articles:
 
