@@ -27,6 +27,7 @@
 ## Repository
 
 Here are a few notable projects I have worked on:
+- [Guide To Deep Neural Networks](https://github.com/dfavenfre/Guide-To-Deep-Neural-Networks-): This repository serves as your ultimate resource hub for comprehensive guides and tutorials on neural network development. Whether you're a novice or a seasoned practitioner, you'll discover valuable insights and practical tips to navigate the complex world of neural networks.
 
 - [Bank Customer Deposit Prediction](https://github.com/dfavenfre/customer_deposit_classifier): Deployed a Streamlit app to predict bank customer deposit subscription behavior by developing and finetuning an XGBClassifier model.
 
