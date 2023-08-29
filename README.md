@@ -7,7 +7,7 @@
   <a href="https://huggingface.co/dfavenfre"><img height="35" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face"></a>
 </div>
 
-<p>I'm a Junior Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.</p>
+<p>I'm a Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.</p>
 
 <h2>Languages and Tools</h2>
 
