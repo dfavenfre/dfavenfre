@@ -27,7 +27,7 @@
 ## Repository
 
 Here are a few notable projects I have worked on:
-- [Informative Robofund (LLM Chatbot)](https://github.com/dfavenfre/Informative-Robofund): an LLM Chatbot, which is currently being built on Streamlit that scopes investors to gain better insigths when making investment decision. Informative Robofund allows investors to chat with KAP documents, and with various data scraped from TEFAS platform.
+- [LLM-Robofund](https://github.com/dfavenfre/LLM-Robofund): an LLM Chatbot, which is currently being built on Streamlit that scopes investors to gain better insigths when making investment decision. Informative Robofund allows investors to chat with KAP documents, and with various data scraped from TEFAS platform.
 
 - [Guide To Deep Neural Networks](https://github.com/dfavenfre/Guide-To-Deep-Neural-Networks-): This repository serves as your ultimate resource hub for comprehensive guides and tutorials on neural network development. Whether you're a novice or a seasoned practitioner, you'll discover valuable insights and practical tips to navigate the complex world of neural networks.
 
