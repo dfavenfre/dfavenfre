@@ -29,10 +29,6 @@
 Here are a few notable projects I have worked on:
 - [LLM-Robofund](https://github.com/dfavenfre/LLM-Robofund): an LLM Chatbot, which is currently being built on Streamlit that scopes investors to gain better insigths when making investment decision. Informative Robofund allows investors to chat with KAP documents, and with various data scraped from TEFAS platform.
 
-- [Guide To Deep Neural Networks](https://github.com/dfavenfre/Guide-To-Deep-Neural-Networks-): This repository serves as your ultimate resource hub for comprehensive guides and tutorials on neural network development. Whether you're a novice or a seasoned practitioner, you'll discover valuable insights and practical tips to navigate the complex world of neural networks.
-
-- [Bank Customer Deposit Prediction](https://github.com/dfavenfre/customer_deposit_classifier): Deployed a Streamlit app to predict bank customer deposit subscription behavior by developing and finetuning an XGBClassifier model.
-
 - [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various predictive models, including a hand-crafted neural network (LSTM) model for linear prediction tasks and an XGB regression model.
 
 - [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Created a centralized financial dashboard for screening financial/economic data, sentiment classification, and time-series forecasting. This all-in-one dashboard is equipped with hand-crafted neural network
