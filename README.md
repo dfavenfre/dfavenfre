@@ -29,7 +29,7 @@
 Here are a few notable projects I have worked on:
 - [LLM-Robofund](https://github.com/dfavenfre/LLM-Robofund): an LLM Chatbot, which is currently being built on Streamlit that scopes investors to gain better insigths when making investment decision. Informative Robofund allows investors to chat with KAP documents, and with various data scraped from TEFAS platform.
 
-- [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various predictive models, including a hand-crafted neural network (LSTM) model for linear prediction tasks and an XGB regression model.
+- [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various predictive models, including a hand-crafted neural network (LSTM) model for time-series forecasting and an XGB regression model to predict t+1 forecast window.
 
 - [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Created a centralized financial dashboard for screening financial/economic data, sentiment classification, and time-series forecasting. This all-in-one dashboard is equipped with hand-crafted neural network
 models, including a sentiment classifier with pre-trained embeddings, and LSTM forecast models for different market capitalizations.
