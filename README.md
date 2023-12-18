@@ -27,7 +27,7 @@
 ## Repository
 
 Here are a few notable projects I have worked on:
-- [LLM-Robofund](https://github.com/dfavenfre/LLM-Robofund): an LLM Chatbot, which is currently being built on Streamlit that scopes investors to gain better insigths when making investment decision. Informative Robofund allows investors to chat with KAP documents, and with various data scraped from TEFAS platform.
+- [LLMRoboFund](https://github.com/dfavenfre/LLMRoboFund): LLMRoboFund is a powerful chatbot empowered with Multi-document RAG. The chatbot is equipped with RetrievalQA and SQL Agents, aiming to ease the investment research.
 
 - [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various predictive models, including a hand-crafted neural network (LSTM) model for time-series forecasting and an XGB regression model to predict t+1 forecast window.
 
