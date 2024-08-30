@@ -1,40 +1,41 @@
 ### Hi there 🤖
 
 <div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/tolga-şakar-575b86136"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.kaggle.com/dfavenfre"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=black" alt="Kaggle"></a>
+  <a href="https://www.linkedin.com/in/tolga-şakar-575b86136"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.kaggle.com/dfavenfre"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle"></a>
   <a href="https://medium.com/@bauglir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://huggingface.co/dfavenfre"><img height="35" src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Hugging Face"></a>
+  <a href="https://huggingface.co/dfavenfre"><img height="35" src="https://img.shields.io/badge/Hugging Face-FF5C77?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
 </div>
 
-<p>I'm a Data Scientist, and currently committing to an MSc. in Applied Data Science. In my repositories, you'd see various projects I personally developed. I also deploy some of my projects on Streamlit.</p>
+<p>I'm a Data Scientist currently working at Naviga AI, where I specialize in developing sophisticated chatbots and customized multi-tool agents using LangChain and LangGraph frameworks. My work focuses on optimizing Retrieval-Augmented Generation (RAG), developing secure and efficient chatbot tools, and performing back-end development with FastAPI. My repositories showcase a range of projects, many of which leverage my expertise in machine learning, predictive modeling, and optimization.</p>
 
 <h2>Languages and Tools</h2>
 
 <ul>
   <li><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></li>
   <li><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></li>
-  <li><img src="https://img.shields.io/badge/DetaSpace-FF3E00?style=for-the-badge&logo=deta&logoColor=white" alt="DetaSpace"></li>
-  <li><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"></li>
+  <li><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></li>
   <li><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"></li>
-  <li><img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"></li>
-  <li><img src="https://img.shields.io/badge/SpaCy-03A9F4?style=for-the-badge&logo=spaCy&logoColor=white" alt="SpaCy"></li>
-  <li><img src="https://img.shields.io/badge/Optuna-FF0000?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna Optimization"></li>
+  <li><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></li>
+  <li><img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="ScikitLearn"></li>
+  <li><img src="https://img.shields.io/badge/Optuna-FF0000?style=for-the-badge&logo=optuna&logoColor=white" alt="Optuna"></li>
   <li><img src="https://img.shields.io/badge/SHAP-3887FF?style=for-the-badge&logo=shap&logoColor=white" alt="SHAP"></li>
+  <li><img src="https://img.shields.io/badge/LangChain-008000?style=for-the-badge&logo=LangChain&logoColor=white" alt="LangChain"></li>
+  <li><img src="https://img.shields.io/badge/LangGraph-4A90E2?style=for-the-badge&logo=LangGraph&logoColor=white" alt="LangGraph"></li>
+  <li><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"></li>
 </ul>
 
 
 ## Repository
 
 Here are a few notable projects I have worked on:
-- [LLMRoboFund](https://github.com/dfavenfre/LLMRoboFund): LLMRoboFund is a powerful chatbot empowered with Multi-document RAG. The chatbot is equipped with RetrievalQA and SQL Agents, aiming to ease the investment research.
+- [LLMRoboFund](https://github.com/dfavenfre/LLMRoboFund): A financial assistant chatbot equipped with a customized multi-tool agent for Text-to-SQL queries and retrieval-augmented generation (RAG). Optimized for efficient and accurate investment research.
 
-- [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed various predictive models, including a hand-crafted neural network (LSTM) model for time-series forecasting and an XGB regression model to predict t+1 forecast window.
+- [Forecasting Hourly Electricity Prices](https://github.com/dfavenfre/electricity-price-forecasting): Developed a suite of predictive models, including a Long Short-Term Memory (LSTM) neural network for time-series forecasting and an XGBoost regression model for predicting t+1 forecast windows. These models provide accurate hourly electricity price predictions.
 
-- [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Created a centralized financial dashboard for screening financial/economic data, sentiment classification, and time-series forecasting. This all-in-one dashboard is equipped with hand-crafted neural network
-models, including a sentiment classifier with pre-trained embeddings, and LSTM forecast models for different market capitalizations.
+- [Econ Dashboard](https://github.com/dfavenfre/Econ-Dashboard): Created a comprehensive financial dashboard that consolidates financial and economic data for analysis, sentiment classification, and time-series forecasting. The dashboard integrates custom-built neural network models, including a sentiment classifier with pre-trained embeddings and LSTM models tailored to different market capitalizations.
 
-- [Financial Sentiment Classifier](https://github.com/dfavenfre/financial-sentiment-classifier): Developed an NLP model to analyze the sentiment of financial or economic commentary, tweet, or news. It is built upon Universal Sentence Encoder (USE) embedding layer and is fine-tuned for financial sentiment classification purposes. Financial Phrasebank's 'agreeall' dataset was used for fine-tuning.
+- [Financial Sentiment Classifier](https://github.com/dfavenfre/financial-sentiment-classifier): Developed a natural language processing (NLP) model to assess the sentiment of financial and economic texts, such as commentary, tweets, and news articles. The model is built on the Universal Sentence Encoder (USE) and fine-tuned using the Financial Phrasebank's 'agreeall' dataset for accurate sentiment classification in the financial domain.
 
 
 ## Medium Blogs
