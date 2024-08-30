@@ -1,17 +1,27 @@
 # Hi there 🤖
 
-<div style="display: flex; align-items: center;">
-  <a href="https://www.linkedin.com/in/tolga-şakar-575b86136"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.kaggle.com/dfavenfre"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle"></a>
-  <a href="https://medium.com/@bauglir"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
-  <a href="https://huggingface.co/dfavenfre"><img height="35" src="https://img.shields.io/badge/Hugging Face-FF5C77?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face"></a>
-</div>
+<div style="border: 2px solid #ddd; border-radius: 10px; padding: 20px; margin: 20px 0; background-color: #f9f9f9; text-align: center;">
+  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-bottom: 15px;">
+    <a href="https://www.linkedin.com/in/tolga-şakar-575b86136" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;">
+    </a>
+    <a href="https://www.kaggle.com/dfavenfre" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=black" alt="Kaggle" style="border-radius: 5px;">
+    </a>
+    <a href="https://medium.com/@bauglir" style="text-decoration: none;">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" style="border-radius: 5px;">
+    </a>
+    <a href="https://huggingface.co/dfavenfre" style="text-decoration: none;">
+      <img height="35" src="https://img.shields.io/badge/Hugging Face-FF5C77?style=for-the-badge&logo=huggingface&logoColor=white" alt="Hugging Face" style="border-radius: 5px;">
+    </a>
+  </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dfavenfre&color=green&style=for-the-badge" alt="Profile Views"> 
-  <img src="https://img.shields.io/github/followers/dfavenfre?style=for-the-badge" alt="GitHub Followers"> 
-  <img src="https://img.shields.io/github/stars/dfavenfre?style=for-the-badge" alt="GitHub Stars">
-</p>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <img src="https://komarev.com/ghpvc/?username=dfavenfre&color=green&style=for-the-badge" alt="Profile Views" style="margin: 0;">
+    <img src="https://img.shields.io/github/followers/dfavenfre?style=for-the-badge" alt="GitHub Followers" style="margin: 0;">
+    <img src="https://img.shields.io/github/stars/dfavenfre?style=for-the-badge" alt="GitHub Stars" style="margin: 0;">
+  </div>
+</div>
 
 <p>I'm a Data Scientist currently working at Naviga AI, where I specialize in developing sophisticated chatbots and customized multi-tool agents using LangChain and LangGraph frameworks. My work focuses on optimizing Retrieval-Augmented Generation (RAG), developing secure and efficient chatbot tools, and performing back-end development with FastAPI. My repositories showcase a range of projects, many of which leverage my expertise in machine learning, predictive modeling, and optimization.</p>
 
