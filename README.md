@@ -51,6 +51,7 @@
 ## 🚀 Projects
 
 Here are a few notable projects I have worked on:
+-- [**TalkYou**](https://github.com/dfavenfre/TalkYou): TalkYou is an innovative open-source project designed to enable users to have a chat with any YouTube video. It brings user a customized chatbot experience, not only with the ability to chat but also with an amazing feature of image retrieval based on user queries. Both LangChain and LangGraph frameworks were utilized as the back-bone of this project to achieve conditional tool calling capabilities.
 
 - [**LLMRoboFund**](https://github.com/dfavenfre/LLMRoboFund): A financial assistant chatbot equipped with a customized multi-tool agent for Text-to-SQL queries and retrieval-augmented generation (RAG). Optimized for efficient and accurate investment research.
   
