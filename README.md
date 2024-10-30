@@ -36,7 +36,7 @@
 
 * 📖 Conducting research on **Autonomous AI Agents** and **Retrieval-Augmented Generation**.
 
-### Published Articles
+### 📰 Published Articles
 
 | Journal                                       | Title                                                                                                                           | PDF                    |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------|
