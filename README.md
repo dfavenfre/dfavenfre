@@ -40,7 +40,7 @@
 
 | Journal                                       | Title                                                                                                                           | PDF                    |
 |-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------|
-| Cambridge Journal of Natural Language Processing | [Maximizing RAG efficiency: A comparative analysis of RAG methods](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85) | [Download PDF](https://github.com/dfavenfre/dfavenfre/blob/main/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods.pdf) |
+| Cambridge University Journal of Natural Language Processing | [Maximizing RAG efficiency: A comparative analysis of RAG methods](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85) | [Download PDF](https://github.com/dfavenfre/dfavenfre/blob/main/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods.pdf) |
 
     
 ### 🖥️ Open-Source Projects
