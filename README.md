@@ -32,7 +32,7 @@
 
 </p>
 
-* 💻 Currently working at Naviga AI as Data Scientist, developing Autonomous AI Agents & AI Chatbots. 
+* 💻 Currently working at TRK Technology as AI Developer, developing Autonomous AI Agents & AI Chatbots. 
 
 * 📖 Conducting research on **Autonomous AI Agents** and **Retrieval-Augmented Generation**.
 
