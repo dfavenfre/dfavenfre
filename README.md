@@ -4,9 +4,6 @@
 </a>
 <br/>
 
-<a href="https://github.com/dfavenfre/dfavenfre/blob/main/TOLGA_%C5%9EAKAR_CV_301024.pdf">
-    <img src="https://img.shields.io/badge/PDF-CV-red?style=flat-square&logo=adobe">
-</a>
 <a href="https://www.kaggle.com/dfavenfre" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=black" alt="Kaggle" style="border-radius: 5px;">
 </a>
