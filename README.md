@@ -1,7 +1,5 @@
 <p align="center">
-<a href="https://github.com/dfavenfre">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Tolga+Şakar;Data+Scientist;+MSc+in+Applied+Data+Science" alt="Typing SVG" />
-</a>
+
 <br/>
 
 <a href="https://www.kaggle.com/dfavenfre" style="text-decoration: none;">
