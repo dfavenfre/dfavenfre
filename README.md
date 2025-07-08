@@ -27,7 +27,7 @@
 
 </p>
 
-* 💻 Currently working at TRK Technology as AI Developer, developing Autonomous AI Agents & AI Chatbots. 
+* 💻 Currently working as AI Developer, developing Autonomous AI Agents & AI Chatbots. 
 
 * 📖 Conducting research on **Autonomous AI Agents** and **Retrieval-Augmented Generation**.
 
