@@ -35,7 +35,7 @@ Independent NLP research focused on low-resource and morphologically complex lan
 
 | Project | Description | Links |
 |---|---|---|
-| **Morpheus** | Morpheme-aware neural tokenizer for Turkish. Character-level encoder with Poisson-binomial soft segmentation, trained on a multi-register Turkish corpus. Outperforms BPE, WordPiece, Unigram, and Morfessor on boundary F1 and downstream BPC. | [Repo](https://github.com/lonewolf-rd/TurkishTokenizer-Alpha-v1) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo) |
+| **Morpheus** | Morpheme-aware neural tokenizer for Turkish. Character-level encoder with Poisson-binomial soft segmentation, trained on a multi-register Turkish corpus. Outperforms BPE, WordPiece, Unigram, and Morfessor on boundary F1 and downstream BPC. | [Repo](https://github.com/lonewolf-rd/TurkishMorpheus) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo) |
 
 ---
 
