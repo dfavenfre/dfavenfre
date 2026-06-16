@@ -1,49 +1,41 @@
+<h3 align="center">Tolga Şakar — AI & ML Engineer · NLP Researcher</h3>
+
 <p align="center">
-
 <br/>
-
-<a href="https://www.kaggle.com/dfavenfre" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=black" alt="Kaggle" style="border-radius: 5px;">
+<a href="https://orcid.org/0009-0009-3684-9755">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID">
 </a>
-<a href="https://www.linkedin.com/in/tolga-şakar/">
+<a href="https://www.linkedin.com/in/tolga-sakar/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=linkedin">
+</a>
+<a href="https://huggingface.co/lonewolflab">
+    <img src="https://img.shields.io/badge/HuggingFace-lonewolflab-yellow?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace">
+</a>
+<a href="https://www.kaggle.com/dfavenfre">
+      <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=black" alt="Kaggle">
 </a>
 <a href="mailto:tolgasa2@gmail.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
-<a href="https://huggingface.co/lonewolflab" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/HuggingFace-lonewolflab-yellow?style=flat-square&logo=huggingface&logoColor=black" alt="HuggingFace">
-</a>
-
 <br/>
-
 <a href="https://github.com/dfavenfre">
     <img src="https://github-stats-alpha.vercel.app/api?username=dfavenfre&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
-
 </p>
 
-* 💻 Currently working as AI & ML Engineer, developing production-grade multimodal AI systems, autonomous agents, and NLP pipelines.
-
-* 📖 Conducting independent research on **morphologically-aware neural tokenization** and **Retrieval-Augmented Generation**.
-
----
-
-### 🔬 Research Organization — [lonewolf-rd](https://github.com/lonewolf-rd)
-
-Independent NLP research focused on low-resource and morphologically complex languages.
-
-| Project | Description | Links |
-|---|---|---|
-| **Morpheus** | Morpheme-aware neural tokenizer for Turkish. Character-level encoder with Poisson-binomial soft segmentation, trained on a multi-register Turkish corpus. Outperforms BPE, WordPiece, Unigram, and Morfessor on boundary F1 and downstream BPC. | [Repo](https://github.com/lonewolf-rd/TurkishMorpheus) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo) |
+* 💻 AI & ML Engineer building production-grade multimodal AI systems, autonomous agents, and NLP pipelines.
+* 📖 Independent research on **morphologically-aware neural tokenization**, **word representations**, and **Retrieval-Augmented Generation** for low-resource / agglutinative languages — under [lonewolf-rd](https://github.com/lonewolf-rd).
 
 ---
 
-### 📰 Published Articles
+### 📰 Publications
 
-| Journal | Title | PDF |
-|---|---|---|
-| Cambridge University Journal of Natural Language Processing (SCI Q1) | [Maximizing RAG efficiency: A comparative analysis of RAG methods](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85) | [Download PDF](https://github.com/dfavenfre/dfavenfre/blob/main/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods.pdf) |
+**Morpheus: A Morphology-Aware Neural Tokenizer and Word Embedder for Turkish** — *arXiv preprint, 2026 (sole author).*
+A **lossless, morphology-aware neural tokenizer *and* word embedder** for Turkish. A differentiable Poisson–binomial soft segmentation produces exact, surface-preserving morpheme splits (`decode(encode(w)) = w`), while the same forward pass yields structured word embeddings. Achieves the **lowest BPC among reversible tokenizers** and roughly **2× the morphological alignment** of BPE/WordPiece/Unigram, and leads BERTurk and BGE-M3 on lexical retrieval.
+[Repo](https://github.com/lonewolf-rd/TurkishMorpheus) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo) · *arXiv link coming soon*
+
+**Maximizing RAG Efficiency: A Comparative Analysis of RAG Methods** — *Natural Language Processing, Cambridge University Press (SCI Q1), 2025.*
+[Paper](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85) · [PDF](https://github.com/dfavenfre/dfavenfre/blob/main/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods.pdf)
 
 ---
 
@@ -69,18 +61,16 @@ Independent NLP research focused on low-resource and morphologically complex lan
 |[Bike Sharing Demand Prediction](https://github.com/dfavenfre/Bike-Sharing-Demand-Prediction) | ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square) ![LGBM](https://img.shields.io/badge/LGBM-black?style=flat-square) ![OPTUNA](https://img.shields.io/badge/OPTUNA-blue?style=flat-square&logo=optuna) ![SCIKITLEARN](https://img.shields.io/badge/SCIKIT-LEARN-blue?style=flat-square&logo=scikit-learn)|
 | [Financial Sentiment Classifier](https://github.com/dfavenfre/financial-sentiment-classifier)| ![TF](https://img.shields.io/badge/TF-black?style=flat-square&logo=tensorflow)|
 | [Bank Customer Deposit Prediction](https://github.com/dfavenfre/customer_deposit_classifier)| ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square) ![Streamlit](https://img.shields.io/badge/Streamlit-white?style=flat-square&logo=streamlit) ![SCIKITLEARN](https://img.shields.io/badge/SCIKIT-LEARN-blue?style=flat-square&logo=scikit-learn)|
-| [Credit Score Prediction](https://github.com/dfavenfre/Credit-Score-Prediction/blob/main/README.md)| ![SCIKITLEARN](https://img.shields.io/badge/SCIKIT-LEARN-blue?style=flat-square&logo=scikit-learn)|
+| [Credit Score Prediction](https://github.com/dfavenfre/Credit-Score-Prediction)| ![SCIKITLEARN](https://img.shields.io/badge/SCIKIT-LEARN-blue?style=flat-square&logo=scikit-learn)|
 
 </td></tr>
 </table>
 
 <br>
 
-My Github Stats
+#### 📊 GitHub Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfavenfre&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dfavenfre&theme=dracula)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dfavenfre&theme=dracula)
-
-</br>
