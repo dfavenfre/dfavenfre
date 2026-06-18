@@ -32,7 +32,7 @@
 
 **Morpheus: A Morphology-Aware Neural Tokenizer and Word Embedder for Turkish** — *arXiv preprint, 2026 (sole author).*
 A **lossless, morphology-aware neural tokenizer *and* word embedder** for Turkish. A differentiable Poisson–binomial soft segmentation produces exact, surface-preserving morpheme splits (`decode(encode(w)) = w`), while the same forward pass yields structured word embeddings. Achieves the **lowest BPC among reversible tokenizers** and roughly **2× the morphological alignment** of BPE/WordPiece/Unigram, and leads BERTurk and BGE-M3 on lexical retrieval.
-[Repo](https://github.com/lonewolf-rd/TurkishMorpheus) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo) · *arXiv link coming soon*
+[Repo](https://github.com/lonewolf-rd/TurkishMorpheus) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo) · [Paper](https://arxiv.org/abs/2606.18717)
 
 **Maximizing RAG Efficiency: A Comparative Analysis of RAG Methods** — *Natural Language Processing, Cambridge University Press (SCI Q1), 2025.*
 A grid-search study of **23,625 configurations** across vector stores, embedding models, and LLMs on cross-domain data, quantifying the trade-offs between retrieval quality, similarity-based ranking, token usage, runtime, and hardware utilization. Shows that **contextual compression filters** substantially reduce token consumption and hardware load, at a similarity cost that is often acceptable depending on the RAG method and use case.
