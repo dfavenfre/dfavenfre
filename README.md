@@ -22,14 +22,18 @@
 
 A lossless, morphology-aware neural tokenizer *and* word embedder for Turkish. A differentiable Poisson–binomial soft segmentation produces exact, surface-preserving morpheme splits (`decode(encode(w)) = w`), while the same forward pass yields structured word embeddings. Achieves the lowest BPC among reversible tokenizers and roughly 2× the morphological alignment of BPE, WordPiece and Unigram, and leads BERTurk and BGE-M3 on lexical retrieval.
 
-[Paper](https://arxiv.org/abs/2606.18717) · [Repository](https://github.com/lonewolf-rd/TurkishMorpheus) · [Model](https://huggingface.co/lonewolflab/Morpheus-TR-50K) · [Demo](https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo)
+<a href="https://arxiv.org/abs/2606.18717"><img src="https://img.shields.io/badge/Paper-B31B1B?style=flat-square&logo=arxiv&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/lonewolf-rd/TurkishMorpheus"><img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Repository"></a>
+<a href="https://huggingface.co/lonewolflab/Morpheus-TR-50K"><img src="https://img.shields.io/badge/Model-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Model"></a>
+<a href="https://huggingface.co/spaces/lonewolflab/morpheus-tr-demo"><img src="https://img.shields.io/badge/Demo-FF6F00?style=flat-square&logo=gradio&logoColor=white" alt="Demo"></a>
 
 **Maximizing RAG Efficiency: A Comparative Analysis of RAG Methods**
 *Natural Language Processing, Cambridge University Press (SCI Q1), 2025*
 
 A grid-search study of 23,625 configurations across vector stores, embedding models and LLMs on cross-domain data, quantifying the trade-offs between retrieval quality, similarity-based ranking, token usage, runtime and hardware utilization. Contextual compression filters substantially reduce token consumption and hardware load, at a similarity cost that is often acceptable depending on the RAG method and use case.
 
-[Paper](https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85) · [PDF](https://github.com/dfavenfre/dfavenfre/blob/main/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods.pdf)
+<a href="https://www.cambridge.org/core/journals/natural-language-processing/article/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods/D7B259BCD35586E04358DF06006E0A85"><img src="https://img.shields.io/badge/Paper-1B4F72?style=flat-square&logo=cambridge&logoColor=white" alt="Paper"></a>
+<a href="https://github.com/dfavenfre/dfavenfre/blob/main/maximizing-rag-efficiency-a-comparative-analysis-of-rag-methods.pdf"><img src="https://img.shields.io/badge/PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="PDF"></a>
 
 ## Research
 
